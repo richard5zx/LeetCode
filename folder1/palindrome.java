@@ -1,3 +1,4 @@
+package folder1;
 class Solution {
     public boolean isPalindrome(int x) {
         

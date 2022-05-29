@@ -1,4 +1,4 @@
-class Solution {
+public class LC0001TwoSum {
     public int[] twoSum(int[] nums, int target) {
         /**
         // Solution 1

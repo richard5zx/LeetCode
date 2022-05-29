@@ -1,8 +1,4 @@
-public class LC0020ValidParantheses {
-    
-}
-
-class Solution {
+public class LC0027RemoveElement {
     public int removeElement(int[] nums, int val) {
         
         // Empty array
@@ -17,4 +13,8 @@ class Solution {
         }
         return valid_size;
     }
+}
+
+class Solution {
+    
 }
